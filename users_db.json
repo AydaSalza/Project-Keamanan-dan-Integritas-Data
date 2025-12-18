@@ -1,0 +1,26 @@
+{
+    "grace": {
+        "fullname": "Grace Gyna",
+        "public_key": "grace_public_key.pem",
+        "inbox": [
+            {
+                "from": "pinkkan",
+                "message": "hallo grace, apa kabar?",
+                "timestamp": "2025-12-18T15:04:33.985339"
+            }
+        ],
+        "last_message_hash": "7e9ff4c3b861d1c4a5466a7504c949bb5186cdb807096a09aee0d03924bc80a4"
+    },
+    "pinkkan": {
+        "fullname": "Pinkkan Ladyna",
+        "public_key": "pinkkan_public_key.pem",
+        "inbox": [
+            {
+                "from": "grace",
+                "message": "hallo pikkan, luar biasa kabar aku baik",
+                "timestamp": "2025-12-18T16:17:31.289476"
+            }
+        ],
+        "last_message_hash": "b94d27b9934d3e08a52e52d7da7dabfac484efe37a5380ee9088f7ace2efcde9"
+    }
+}
